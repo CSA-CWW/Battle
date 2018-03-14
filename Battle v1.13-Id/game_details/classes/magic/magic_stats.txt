@@ -1,0 +1,19 @@
+#class_name_-># Magic
+
+#hp_-># 39
+#attack_-># 33
+#defense_-># 23
+#speed_-># 14
+
+#attack_name_-># Scratch
+#attack_damage_-># 40
+#attack_accuracy_-># 95
+
+#magic_name_-># Magic
+#magic_damage_low_-># 40
+#magic_damage_high_-># 60
+#magic_accuracy_-># 80
+
+#special_damage_-># 95
+
+#ability_id_-># 3
