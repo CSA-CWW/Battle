@@ -1,0 +1,19 @@
+#class_name_-># Fighting
+
+#hp_-># 35
+#attack_-># 27
+#defense_-># 31 
+#speed_-># 30
+
+#attack_name_-># Brick-Break
+#attack_damage_-># 50 
+#attack_acuracy_-># 95 
+
+#magic_name_-># Close-Combat
+#magic_damage_low_-># 60
+#magic_damage_high_-># 60
+#magic_accuracy_-># 78
+
+#special_damage_-># 100
+
+#ability_id_-># 2
