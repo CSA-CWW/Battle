@@ -1,0 +1,73 @@
+||IN DEVELOPMENT||
+
+V [1.13.0]:
+  > Added three classes to choose from. Mage, Fighter, Default
+  > Added abilitys along with those clases
+  > Can create 3 custom classes, edit current ones.
+  > Added an optional tutorial at the start
+  > Edited appearence of the game some
+  > Changed most variables to be under 'stats_mod', 'stats_base', 'mech', or 'actions_count' dictionarys
+  > No longer titles username, but can still check if its cpu
+  > Moved the update log to a seperate file
+  > Starts game by clicking "rungame" instead of "battle"
+
+V [1.12.2]:
+  > Added another Cpu
+  > Changed Cpu's response if below % hp
+  > Fixed big with Special not working after 1st battle
+  > Fixed Magic damage
+  > Added some Debug commands and Easter Eggs
+  > Cleaned up code alot
+
+V [1.11.1]:
+  > Edited "Special" description to include something i forgot to put (rushed out 1.11)
+  > Titles whatever Player1, Player2 inputs
+  > Added "Special"
+  > Changed default stats
+  > Added the ability to view stats again/ quit
+
+
+V [1.10.0]:
+  > Can type in number, instead of full name for actions
+  > Added delays
+
+V [1.9.0]:
+  >Displays amount of times action has been done, after game is over
+
+V [1.8]:
+  > Added critical hits
+  > Edited actions
+  > Default stats changed
+  > Added "Level" stat
+
+V [1.7.1]:
+  > Alot of bug fixes
+  > Can reset scoreboard
+
+V [1.6.0]:
+  > Shortened code (Cheated and looked up "global" command)
+  > Speed only randomised once per battle 
+  > Added scoreboard
+
+V [1.5.1]:
+  > Stat editor bug (different one than in 1.2) fixed
+  > Speed Stat added
+
+V [1.4.0]:
+  > Cpu fixed
+
+V [1.3.0]:
+  > Cpu started
+
+V [1.2.0]:
+  > Restarts game once someone dies
+  > Fixed stat editor
+
+V [1.1.1]:
+  > Moved player to begening , not middle
+  > User can now custom edit stats in opening screen
+  > Edited text that shows stats, and removed spaces in "Your () is now -> []"
+  > Fixed bug with "Heal", then "Magic"
+  > Can Do actions that affect stats, in a battle simulator
+  > Two player
+
