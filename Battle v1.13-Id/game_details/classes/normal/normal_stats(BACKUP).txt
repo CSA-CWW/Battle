@@ -1,0 +1,19 @@
+#class_name_-># Normal
+
+#hp_-># 45 
+#attack_-># 23 
+#defense_-># 26 
+#speed_-># 34
+
+#attack_name_-># Scratch
+#attack_damage_-># 40 
+#attack_acuracy_-># 95 
+
+#magic_name_-># Tackle
+#magic_damage_low_-># 40
+#magic_damage_high_-># 60
+#magic_accuracy_-># 78
+
+#special_damage_-># 100
+
+#ability_id_-># 1
